@@ -2,6 +2,8 @@
 
 ## 1. Mục tiêu tự học
 
+![Ảnh chụp màn hình portal](./screenshot.png)
+
 Báo cáo này trình bày quá trình tìm hiểu về `Stored Procedure` trong MySQL.
 
 Mục tiêu chính gồm:
